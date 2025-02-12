@@ -1,0 +1,14 @@
+F:\پایان نامه\BIM\RevitAddIn\bin\Debug\RevitAddIn.dll
+F:\پایان نامه\BIM\RevitAddIn\bin\Debug\RevitAddIn.pdb
+F:\پایان نامه\BIM\RevitAddIn\obj\Debug\RevitAddIn.csprojAssemblyReference.cache
+F:\پایان نامه\BIM\RevitAddIn\obj\Debug\RevitAddIn.csproj.CoreCompileInputs.cache
+F:\پایان نامه\BIM\RevitAddIn\obj\Debug\RevitAddIn.dll
+F:\پایان نامه\BIM\RevitAddIn\obj\Debug\RevitAddIn.pdb
+F:\پایان نامه\BIM\RevitAddIn\bin\Debug\MaterialSelectionTool.addin
+F:\پایان نامه\BIM\RevitAddIn\obj\Debug\RevitAddIn.csproj.ResolveComReference.cache
+F:\پایان نامه\BIM\RevitAddIn\obj\Debug\RevitAddIn.SelectInteriorWallsForm.resources
+F:\پایان نامه\BIM\RevitAddIn\obj\Debug\RevitAddIn.csproj.GenerateResource.cache
+F:\پایان نامه\BIM\RevitAddIn\obj\Debug\RevitAddIn.FormPairwiseComparison.resources
+F:\پایان نامه\BIM\RevitAddIn\obj\Debug\RevitAddIn.SelectExteriorWallsForm.resources
+F:\پایان نامه\BIM\RevitAddIn\obj\Debug\RevitAddIn.SelectArchitecturalFloorsForm.resources
+F:\پایان نامه\BIM\RevitAddIn\obj\Debug\RevitAddIn.SelectStructuralFloorsForm.resources

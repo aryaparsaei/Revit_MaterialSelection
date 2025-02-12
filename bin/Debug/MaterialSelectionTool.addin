@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ApplicationPlugin</Name>
+    <Assembly>RevitAddIn.dll</Assembly>
+    <AddInId>
+      E1AA3794-4010-42F5-8879-F014963D51D6
+    </AddInId>
+    <FullClassName>RevitAddIn.App</FullClassName>
+    <Text>Material Selection Tool</Text>
+    <Description>An application to help select the right materials for the project</Description>
+    <VendorId>AryaParsaei</VendorId>
+    <VendorDescription>arya73p@gmail.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
